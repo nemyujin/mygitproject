@@ -1,7 +1,8 @@
 
 public class B {
-	public static void sayHello() {
-		System.out.println("Hello Git!");
+	 public static void main(String args[]) {
+		C C = new C();
+		 C.sayHello();
 
 	}
 }
